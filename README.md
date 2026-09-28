@@ -4,7 +4,6 @@
 
 - 🔭 **Currently:** building solo at [@enolalabs](https://github.com/enolalabs)
 - 🧰 **Stack:** Go · Kotlin/Java · TypeScript · PostgreSQL · Redis · Kafka · Temporal · gRPC · Kubernetes (GKE/EKS)
-- 🤖 **Interests:** agent protocols — see [a2a-bridge](https://github.com/hieuntg81/a2a-bridge) (MCP ↔ A2A bridge) and [a2a-blablo](https://github.com/hieuntg81/a2a-blablo) (A2A hub)
 - 🏦 **Previously:** AI agent infrastructure (ByteRover), payments & fintech (VNPAY, Vui App), healthcare data platforms (VinBigData)
 - 📫 **Reach me:** [LinkedIn](https://linkedin.com/in/hieuntg81) · hieuntg81@gmail.com
 
